@@ -1,2 +1,2 @@
 FROM gcr.io/google_containers/echoserver:1.4
-MATAINER locutus  <locutus@foxmail.com>
+MAINTAINER locutus <locutus@foxmail.com>
